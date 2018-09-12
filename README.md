@@ -18,4 +18,6 @@
 			registered: Registered Users
 			count: Total Bike Usage
 		'''
-# SharedBike
+
+## Output:
+Lintcode Result: Scoring 0.48448
